@@ -1,0 +1,6 @@
+﻿  OverLoad Fucntion.cpp
+C:\Users\vladi\source\repos\OverLoad Fucntion\OverLoad Fucntion\OverLoad Fucntion.cpp(29,21): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\vladi\source\repos\OverLoad Fucntion\OverLoad Fucntion\OverLoad Fucntion.cpp(31,21): error C2666: Sum: для перегрузок (2) есть подобные преобразования
+C:\Users\vladi\source\repos\OverLoad Fucntion\OverLoad Fucntion\OverLoad Fucntion.cpp(19,8): message : может быть "double Sum(double,double)"
+C:\Users\vladi\source\repos\OverLoad Fucntion\OverLoad Fucntion\OverLoad Fucntion.cpp(4,5): message : или       "int Sum(int,int)"
+C:\Users\vladi\source\repos\OverLoad Fucntion\OverLoad Fucntion\OverLoad Fucntion.cpp(31,21): message : при попытке сопоставить список аргументов "(int, double)"
